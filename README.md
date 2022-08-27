@@ -1,5 +1,6 @@
 # Smart-Home
-Digital system for the control of a smart-home
+Digital system for the control of a smart-home. The uer can interact with controllers to switch on and
+off, and set specific parameters for various devices and systems.
 
 ΠΛΗΡΟΦΟΡΙΕΣ:
 Στο αρχείο έχει υλοποιηθεί ο κώδικας για τα παρακάτω use case, το σπίτι με τα δωμάτια, τις συσκευές, τις πόρτες/παράθυρα κλπ καθώς και άλλες βασικές λειτουργίες.
